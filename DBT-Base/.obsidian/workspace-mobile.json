@@ -1,0 +1,388 @@
+{
+  "main": {
+    "id": "dfbcee0f5b26e343",
+    "type": "split",
+    "children": [
+      {
+        "id": "71d5ee0ffe898249",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e24993d1a83873e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DBT/HW/HW 10-09-25 - reconnect with the physical.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "HW 10-09-25 - reconnect with the physical"
+            }
+          },
+          {
+            "id": "f55acc638579e3d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DBT/HW/HW 10-11-25 -- mapping out nsfw commission series for Aro.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "HW 10-11-25 -- mapping out nsfw commission series for Aro"
+            }
+          },
+          {
+            "id": "e65754ee46c4d63c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DBT/_processing/Calling IFS specialist.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Calling IFS specialist"
+            }
+          },
+          {
+            "id": "6a77bbb242e7f069",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DBT/_Strategy Guide/PSG - Planning Doc.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "PSG - Planning Doc"
+            }
+          },
+          {
+            "id": "def45d3863e1fcae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DBT/Skills/Planning - DBT Skill Pages 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Planning - DBT Skill Pages 1"
+            }
+          },
+          {
+            "id": "a5d08d6a8d25ec67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DBT/_Daily notes dashboard v1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "_Daily notes dashboard v1"
+            }
+          },
+          {
+            "id": "f836067f7983aaa2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Life/Writing inbox/WORD SKETCH - DEC27 2025 14-11.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "WORD SKETCH - DEC27 2025 14-11"
+            }
+          },
+          {
+            "id": "f4a88d3bec5aabec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DBT/_DASHBOARD.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "_DASHBOARD"
+            }
+          },
+          {
+            "id": "ea8a67c4d063ffa0",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "3d printing base.base",
+                "viewName": "3d printing (cards)"
+              },
+              "icon": "lucide-layout-grid",
+              "title": "3d printing base"
+            }
+          },
+          {
+            "id": "bfb5f9f3bb56c81d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Life/3D-Printing/_3D PRINTING INDEX.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "_3D PRINTING INDEX"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f12c3e42474535e8",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "15bdea54a1a36d50",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "fdd4939c273e7f62",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#3d-printing",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "6e2cd835753df1d6",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "d461186b4ee6c90f",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "d9c6cd9f889aa3c1",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "59768e486d840df4",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "bc74149721279a3f",
+        "type": "leaf",
+        "state": {
+          "type": "mk-path-view",
+          "state": {},
+          "icon": "layout-grid",
+          "title": "Navigator"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b8166d2de94ca004",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7774ef982ebf7d23",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "DBT/Diary Card display v3 wip Active.md",
+            "collapseAll": false,
+            "extraContext": true,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "c5ecda24619f805f",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "07de4ee638018ff2",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "cbc998b347fd8d05",
+        "type": "leaf",
+        "state": {
+          "type": "quiet-outline",
+          "state": {},
+          "icon": "lines-of-text",
+          "title": "Quiet Outline"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "quartz-syncer:Quartz Syncer publication center": false,
+      "templater-obsidian:Templater": false,
+      "zk-prefixer:Create new unique note": false
+    }
+  },
+  "active": "ea8a67c4d063ffa0",
+  "lastOpenFiles": [
+    "Life/3D-Printing/_3D PRINTING INDEX.md",
+    "3d printing base.base",
+    "Life/3D-Printing/_3D PRINTING BASE.md",
+    "_Draft-Inbox/Untitled.md",
+    "_Templates/Add skill and button v2.md",
+    "Life/3D-Printing/3Dprint- Jan04 2026 16-17.md",
+    "Life/3D-Printing/3Dprint-tutorial - Dec22 2025 11-14.md",
+    "_Templates/3D printing template.md",
+    "Life/3D-Printing/3Dprint - maintenance kit- Dec26 2025 16-27.md",
+    "DBT/_DASHBOARD.md",
+    "Life/3D-Printing/3Dprint- Jan03 2026 18-09.md",
+    "Untitled 1.md",
+    "DBT/Skills/Planning - DBT Skill Pages 1.md",
+    "Life/Writing inbox/WORD SKETCH - DEC27 2025 14-11.md",
+    "DEL.md",
+    "DBT/-filled```/placeholder.md",
+    "DBT/-filled```/My New Note.md",
+    "_Templates/Add Skill and button.md",
+    "_Templates/RESEARCH TEMPLATE.md",
+    "_Templates/Cope Ahead Template v1.md",
+    "DBT/Skills/Attachments/TRAP Worksheet.pdf",
+    "_Templates/DBT SKILLS TEMPLATE V1 WIP.md",
+    "DBT/_Strategy Guide/PSG - Planning Doc.md",
+    "DBT/Diary Cards/DC- Dec31 2025 07-51.md",
+    "DBT/_Daily notes dashboard v1.md",
+    "DBT/_daily-notes/Daily--Dec30 2025.md",
+    "Life/Holiday gifts brainstorm Mom and Dad.md",
+    "Life/Writing inbox",
+    "Tags/#3d-printing+tutorials",
+    "DBT/-filled```",
+    "Life/3D-Printing",
+    "Life",
+    "Tags/#daily-notes",
+    "attachments/9-18-2025-1.png",
+    "DBT/Skills/Attachments other/DBT-Cheat-Sheet-1.png",
+    "DBT/Skills/Attachments other",
+    "_Templates/Scripts",
+    "attachments/Pasted image 20251011143313.png",
+    "attachments/1758890510183.jpg",
+    "attachments/1758890456713.jpg",
+    "attachments/1758890223042.jpg",
+    "attachments/1758890140406.jpg",
+    "attachments/1758890073836.jpg",
+    "attachments/1758890013108.jpg",
+    "attachments/1758888922959.jpg"
+  ]
+}

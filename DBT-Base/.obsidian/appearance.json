@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Cardstock",
+  "enabledCssSnippets": [
+    "modular_img_gallery_snippet",
+    "flip-cards",
+    "Notebook-backgrounds",
+    "dataview_scroll_h",
+    "dataview_horizontal_scroll"
+  ]
+}

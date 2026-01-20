@@ -1,0 +1,18 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "sketch": "text",
+    "date": "datetime",
+    "brain_explosions": "number",
+    "track_shame": "number",
+    "Track_unworth": "number",
+    "Track_self_crit": "number",
+    "alias": "text",
+    "CW//": "multitext",
+    "is_about": "multitext",
+    "created_date": "text",
+    "skill-type": "multitext"
+  }
+}

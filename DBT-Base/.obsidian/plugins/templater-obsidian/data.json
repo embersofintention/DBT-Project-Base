@@ -1,0 +1,74 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "_Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "_Templates/Scripts",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "SketchPages",
+      "template": "_Templates/sketch entry template v3.md"
+    },
+    {
+      "folder": "DBT/Diary Cards",
+      "template": "_Templates/Diary Card Template v4.md"
+    },
+    {
+      "folder": "DBT/Cope Ahead Plans",
+      "template": "_Templates/Cope Ahead Template v1.md"
+    },
+    {
+      "folder": "DBT/Health",
+      "template": "_Templates/Blood Pressure template.md"
+    },
+    {
+      "folder": "DBT/_processing",
+      "template": "_Templates/Processing thoughts template.md"
+    },
+    {
+      "folder": "DBT/Blood Pressure",
+      "template": "_Templates/Blood Pressure template.md"
+    },
+    {
+      "folder": "DBT/Blood Pressure v2",
+      "template": "_Templates/Blood Pressure template v2.md"
+    },
+    {
+      "folder": "DBT/_daily-notes",
+      "template": "_Templates/Daily Notes template.md"
+    },
+    {
+      "folder": "Life",
+      "template": "_Templates/_ADD DATE AND TAGLINE STUFF.md"
+    },
+    {
+      "folder": "Life/Researching",
+      "template": "_Templates/RESEARCH TEMPLATE.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    "_Templates/sketch entry template v3.md"
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "intellisense_render": 1
+}
