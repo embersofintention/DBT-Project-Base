@@ -382,7 +382,7 @@
     ]
   },
   "_Templates/DBT SKILLS TEMPLATE V1 WIP.md": {
-    "scroll": 57.81193566111388,
+    "scroll": 16.97009674582234,
     "cursor": {
       "from": {
         "line": 88,
@@ -503,7 +503,7 @@
     "expandedKeys": []
   },
   "DBT/_DASHBOARD.md": {
-    "scroll": 36.04012634324727,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 72,
@@ -573,7 +573,7 @@
     "expandedKeys": []
   },
   "DBT/Skills/Planning - DBT Skill Pages 1.md": {
-    "scroll": 23.734373887379963,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 10,
@@ -666,6 +666,174 @@
       "to": {
         "line": 23,
         "ch": 11
+      }
+    },
+    "expandedKeys": []
+  },
+  "index.md": {
+    "scroll": 10.625,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "().md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "DBT/_Strategy Guide/PSG - Work Strategy - Hour Blocks.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 0
+      },
+      "to": {
+        "line": 8,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "DBT/_Strategy Guide/PSG - Index.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 0
+      },
+      "to": {
+        "line": 8,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "DBT/Situations to skills WIP.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "DBT/Skills/Attachments other/ATTACHMENT COLLECTION.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_Templates/Add Cope Ahead Barrier.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_Templates/Challenging Beliefs worksheet process.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 11,
+        "ch": 0
+      },
+      "to": {
+        "line": 11,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_Templates/Diary Card Template v4.md": {
+    "scroll": 40.291015625,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 0
+      },
+      "to": {
+        "line": 9,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_Templates/Processing thoughts template.md": {
+    "scroll": 7.779661016949152,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 0
+      },
+      "to": {
+        "line": 9,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_Templates/sketch entry template v3.md": {
+    "scroll": 6.414225941422594,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 0
+      },
+      "to": {
+        "line": 9,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Inertia Thoughts.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
       }
     },
     "expandedKeys": []

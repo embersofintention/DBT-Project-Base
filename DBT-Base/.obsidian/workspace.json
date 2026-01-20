@@ -4,143 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "1fcd1d14836abf6e",
+        "id": "67468d81248c9b1e",
         "type": "tabs",
         "children": [
           {
-            "id": "622e9b62e34bd644",
+            "id": "5a8a24517308afce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DBT/HW/HW 10-11-25 -- mapping out nsfw commission series for Aro.md",
+                "file": "_Templates/Scripts/createnote.templater.js.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "HW 10-11-25 -- mapping out nsfw commission series for Aro"
-            }
-          },
-          {
-            "id": "af6958f86e89af4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DBT/_processing/PIFs charity landing page planning.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "PIFs charity landing page planning"
-            }
-          },
-          {
-            "id": "970a80cebec14df3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DBT/_Strategy Guide/PSG - Planning Doc.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "PSG - Planning Doc"
-            }
-          },
-          {
-            "id": "36f36b16c8e91b17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DBT/Diary Cards/Diary Card display v2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Diary Card display v2"
-            }
-          },
-          {
-            "id": "1b3e26debb13bf3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Life/Holiday gifts brainstorm Mom and Dad.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Holiday gifts brainstorm Mom and Dad"
-            }
-          },
-          {
-            "id": "0012dcdf3e3c471e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Templates/_ADD DATE AND TAGLINE STUFF.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "_ADD DATE AND TAGLINE STUFF"
-            }
-          },
-          {
-            "id": "fd3faa72cab07131",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Life/Researching/_RESEARCHING INDEX.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "_RESEARCHING INDEX"
-            }
-          },
-          {
-            "id": "540cf0ffde2f5e9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Life/Researching/syncthing alternatives- DEC26 2025 17-03.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "syncthing alternatives- DEC26 2025 17-03"
-            }
-          },
-          {
-            "id": "c771317b57636c64",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
+              "title": "createnote.templater.js"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,7 +76,7 @@
             }
           },
           {
-            "id": "497585090b4528be",
+            "id": "b47399cb3f0ae5de",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -284,12 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "_Templates/Scripts/createnote.templater.js.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of createnote.templater.js"
             }
           }
         ],
@@ -312,45 +195,45 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "06ec9eaeeb0cadcb",
+  "active": "5a8a24517308afce",
   "lastOpenFiles": [
+    "DBT/_DASHBOARD.md",
+    "DBT/Skills/Planning - DBT Skill Pages 1.md",
+    "DBT/Skills/Skills.md",
+    "Inertia Thoughts.md",
+    "3d printing base.base",
+    "index.md",
+    "_Templates/RESEARCH TEMPLATE.md",
+    "_Templates/_ADD DATE AND TAGLINE STUFF.md",
+    "_Templates/sketch entry template v3.md",
+    "_Templates/DBT SKILLS TEMPLATE V1 WIP.md",
+    "_Templates/Processing thoughts template.md",
+    "_Templates/Homework Template.md",
+    "_Templates/Diary Card Template v4.md",
+    "_Templates/Cope Ahead Template v1.md",
+    "_Templates/Challenging Beliefs worksheet process.md",
+    "_Templates/Add CSS Gallery.md",
+    "_Templates/Add Cope Ahead Barrier.md",
+    "DBT/Skills/Attachments other/ATTACHMENT COLLECTION.md",
+    "DBT/Skills/Attachments other/DBT-Cheat-Sheet-1.png",
+    "DBT/DBT.md",
+    "DBT/Situations to skills WIP.md",
+    "DBT/_Strategy Guide/PSG - Index.md",
+    "DBT/_Strategy Guide/PSG - Planning Doc.md",
+    "DBT/_Strategy Guide/PSG - Work Strategy - Hour Blocks.md",
+    "().md",
     "Tags/#3d-printing",
     "DBT/_Diary Card display v3 Active.md",
     "DBT/Diary Cards/DC- Jan02 2026 18-22.md",
     "DBT/_dashboard.md",
-    "Life/3D-Printing/3Dprint - maintenance kit- Dec26 2025 16-27.md",
-    "().md",
-    "_Templates/RESEARCH TEMPLATE.md",
-    "Life/Researching/_RESEARCHING INDEX.md",
-    "Life/Researching/syncthing alternatives- DEC26 2025 17-03.md",
-    "Life/Researching/3Dprint- Dec26 2025 17-02.md",
-    "_Templates/_ADD DATE AND TAGLINE STUFF.md",
-    "Life/3D-Printing/_3D PRINTING INDEX.md",
     "Life/Researching",
-    "DBT/_daily-notes/Daily--Dec23 2025.md",
-    "DBT/-filled```/challenging_beliefs- Dec24 2025.md",
     "DBT/_processing/~syncthing~HYSTERECTOMY PREP AND RECOVERY.md.tmp",
     "DBT/_daily-notes/~syncthing~Daily--Dec23 2025.md.tmp",
     "DBT/-filled```/~syncthing~challenging_beliefs- Dec24 2025.md.tmp",
-    "DBT/Diary Cards/DC- Dec23 2025 15-59.md",
     "DBT/Diary Cards/~syncthing~DC- Dec23 2025 15-59.md.tmp",
     "DBT/-filled```",
-    "Life/3D-Printing/3Dprint-tutorial - Dec22 2025 11-14.md",
     "Life/Household Chores and Tasks",
-    "_Templates/3D printing template.md",
-    "_Templates/3D printing template - tutorials.md",
-    "DBT/_Daily notes dashboard v1.md",
-    "Life/Misc Adulting/done/bank fees questions - DEC26 2025 15-26.md",
-    "_Templates/Homework Template.md",
     "Life/Misc Adulting/done",
-    "Life/Misc Adulting",
-    "DBT/Diary Cards/Diary Card display v2.md",
-    "DBT/HW/CW form 11-17-25.md",
-    "Life/Holiday gifts brainstorm Mom and Dad.md",
-    "_Templates/_Templates.md",
-    "DBT/Diary Cards/DCc- Dec20 2025 10-05.md",
-    "DBT/Diary Cards/~syncthing~DCc- Dec20 2025 10-05.md.tmp",
-    "DBT/Skills/Attachments other/DBT-Cheat-Sheet-1.png",
     "attachments/Pasted image 20251118075321.png",
     "attachments/rappy anim whwoehaoeh1.gif",
     "attachments/ptsd - The Fantastic Neighbor.png",
