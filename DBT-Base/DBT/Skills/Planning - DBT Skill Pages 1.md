@@ -1,6 +1,5 @@
 ---
 tags:
-  - homework
 tagline: Planning skill pages template
 publish: false
 date:

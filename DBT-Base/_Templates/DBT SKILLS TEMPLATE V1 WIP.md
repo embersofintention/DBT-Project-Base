@@ -1,10 +1,9 @@
 ---
 tags:
-  - dbt
-  - type/Mindfulness
-  - type/Emotion_Regulation
-  - type/Distress_Tolerance
-  - type/Interpersonal_Effectiveness
+  - dbt/type/Mindfulness
+  - dbt/type/Emotion_Regulation
+  - dbt/type/Distress_Tolerance
+  - dbt/type/Interpersonal_Effectiveness
 tagline: (empty)
 publish: false
 date:

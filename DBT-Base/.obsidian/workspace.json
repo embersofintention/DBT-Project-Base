@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Templates/Scripts/createnote.templater.js.md",
+                "file": "_Templates/RESEARCH TEMPLATE.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "createnote.templater.js"
+              "title": "RESEARCH TEMPLATE"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#dbt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,17 +166,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Templates/Scripts/createnote.templater.js.md",
+                "file": "_Templates/RESEARCH TEMPLATE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of createnote.templater.js"
+              "title": "Outline of RESEARCH TEMPLATE"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -195,10 +195,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5a8a24517308afce",
+  "active": "06ec9eaeeb0cadcb",
   "lastOpenFiles": [
-    "DBT/_DASHBOARD.md",
+    "_Templates/Challenging Beliefs worksheet process.md",
     "DBT/Skills/Planning - DBT Skill Pages 1.md",
+    "_Templates/DBT SKILLS TEMPLATE V1 WIP.md",
+    "subject - Jan20 2026 19-09.md",
+    "DBT/Skills/Attachments/Attachments.md",
+    "DBT/Skills/Attachments/10b.DBT Opposite Action Slides.pdf",
+    "_Templates/Scripts/createnote.templater.js.md",
+    "DBT/_DASHBOARD.md",
     "DBT/Skills/Skills.md",
     "Inertia Thoughts.md",
     "3d printing base.base",
@@ -206,12 +212,10 @@
     "_Templates/RESEARCH TEMPLATE.md",
     "_Templates/_ADD DATE AND TAGLINE STUFF.md",
     "_Templates/sketch entry template v3.md",
-    "_Templates/DBT SKILLS TEMPLATE V1 WIP.md",
     "_Templates/Processing thoughts template.md",
     "_Templates/Homework Template.md",
     "_Templates/Diary Card Template v4.md",
     "_Templates/Cope Ahead Template v1.md",
-    "_Templates/Challenging Beliefs worksheet process.md",
     "_Templates/Add CSS Gallery.md",
     "_Templates/Add Cope Ahead Barrier.md",
     "DBT/Skills/Attachments other/ATTACHMENT COLLECTION.md",
@@ -223,9 +227,6 @@
     "DBT/_Strategy Guide/PSG - Work Strategy - Hour Blocks.md",
     "().md",
     "Tags/#3d-printing",
-    "DBT/_Diary Card display v3 Active.md",
-    "DBT/Diary Cards/DC- Jan02 2026 18-22.md",
-    "DBT/_dashboard.md",
     "Life/Researching",
     "DBT/_processing/~syncthing~HYSTERECTOMY PREP AND RECOVERY.md.tmp",
     "DBT/_daily-notes/~syncthing~Daily--Dec23 2025.md.tmp",
@@ -233,7 +234,6 @@
     "DBT/Diary Cards/~syncthing~DC- Dec23 2025 15-59.md.tmp",
     "DBT/-filled```",
     "Life/Household Chores and Tasks",
-    "Life/Misc Adulting/done",
     "attachments/Pasted image 20251118075321.png",
     "attachments/rappy anim whwoehaoeh1.gif",
     "attachments/ptsd - The Fantastic Neighbor.png",

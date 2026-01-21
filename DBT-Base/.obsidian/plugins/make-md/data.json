@@ -42,12 +42,12 @@
     "//Adventure Journal",
     "//Sketches",
     "//_Attachments",
-    "/",
     "//Concepts and Ideas",
     "//DBT/DBT/Scraps and Homeworks",
     "//DBT/DBT/Health",
     "//DBT",
-    "//DBT/DBT/_"
+    "//DBT/DBT/_",
+    "/"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

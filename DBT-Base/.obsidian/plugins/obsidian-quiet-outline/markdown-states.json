@@ -382,14 +382,14 @@
     ]
   },
   "_Templates/DBT SKILLS TEMPLATE V1 WIP.md": {
-    "scroll": 16.97009674582234,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 88,
+        "line": 87,
         "ch": 0
       },
       "to": {
-        "line": 88,
+        "line": 87,
         "ch": 0
       }
     },
@@ -833,6 +833,48 @@
       },
       "to": {
         "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_Templates/Scripts/createnote.templater.js.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Untitled.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "subject - Jan20 2026 19-09.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 20,
+        "ch": 0
+      },
+      "to": {
+        "line": 20,
         "ch": 0
       }
     },

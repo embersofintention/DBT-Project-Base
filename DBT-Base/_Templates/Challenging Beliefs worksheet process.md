@@ -1,7 +1,6 @@
 ---
 tags:
-  - processing
-  - challenging-beliefs
+  - dbt/worksheet/challenging-beliefs
 tagline: (empty)
 publish: false
 date:
