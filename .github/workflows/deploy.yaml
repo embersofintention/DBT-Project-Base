@@ -27,14 +27,14 @@ jobs:
       - name: Setup Kiln
         run: |
           # Download the latest Linux binary
-          curl -L -o kiln "https://github.com/otaleghani/kiln/releases/download/v0.3.13/kiln_linux_amd64"
+          curl -L -o kiln https://github.com/otaleghani/kiln/releases/download/v0.3.13/kiln_linux_amd64
           
           # Make it executable
           chmod +x kiln          
 
       - name: Build Site
         # Replace the URL below with your actual GitHub Pages URL
-        run: ./kiln generate --url "https://embersofintention.github.io/DBT-Project-Base"
+        run: ./kiln generate --url https://embersofintention.github.io/DBT-Project-Base/
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
