@@ -3,7 +3,7 @@
   "autoPairMarkdown": false,
   "tabSize": 6,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "attachments",
+  "attachmentFolderPath": "_img",
   "mobileToolbarCommands": [
     "editor:insert-wikilink",
     "editor:insert-embed",

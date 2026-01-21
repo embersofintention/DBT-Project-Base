@@ -671,14 +671,14 @@
     "expandedKeys": []
   },
   "index.md": {
-    "scroll": 10.625,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 7,
+        "line": 2,
         "ch": 0
       },
       "to": {
-        "line": 7,
+        "line": 2,
         "ch": 0
       }
     },

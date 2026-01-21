@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Templates/RESEARCH TEMPLATE.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "RESEARCH TEMPLATE"
+              "title": "index"
             }
           }
         ]
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Templates/RESEARCH TEMPLATE.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of RESEARCH TEMPLATE"
+              "title": "Outline of index"
             }
           }
         ],
@@ -197,6 +197,10 @@
   },
   "active": "06ec9eaeeb0cadcb",
   "lastOpenFiles": [
+    "_img/_img.md",
+    "_img",
+    "_Templates/RESEARCH TEMPLATE.md",
+    "index.md",
     "_Templates/Challenging Beliefs worksheet process.md",
     "DBT/Skills/Planning - DBT Skill Pages 1.md",
     "_Templates/DBT SKILLS TEMPLATE V1 WIP.md",
@@ -209,7 +213,6 @@
     "Inertia Thoughts.md",
     "3d printing base.base",
     "index.md",
-    "_Templates/RESEARCH TEMPLATE.md",
     "_Templates/_ADD DATE AND TAGLINE STUFF.md",
     "_Templates/sketch entry template v3.md",
     "_Templates/Processing thoughts template.md",
@@ -224,8 +227,6 @@
     "DBT/Situations to skills WIP.md",
     "DBT/_Strategy Guide/PSG - Index.md",
     "DBT/_Strategy Guide/PSG - Planning Doc.md",
-    "DBT/_Strategy Guide/PSG - Work Strategy - Hour Blocks.md",
-    "().md",
     "Tags/#3d-printing",
     "Life/Researching",
     "DBT/_processing/~syncthing~HYSTERECTOMY PREP AND RECOVERY.md.tmp",
@@ -233,7 +234,6 @@
     "DBT/-filled```/~syncthing~challenging_beliefs- Dec24 2025.md.tmp",
     "DBT/Diary Cards/~syncthing~DC- Dec23 2025 15-59.md.tmp",
     "DBT/-filled```",
-    "Life/Household Chores and Tasks",
     "attachments/Pasted image 20251118075321.png",
     "attachments/rappy anim whwoehaoeh1.gif",
     "attachments/ptsd - The Fantastic Neighbor.png",
