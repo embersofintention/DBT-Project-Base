@@ -76,7 +76,7 @@
             }
           },
           {
-            "id": "b47399cb3f0ae5de",
+            "id": "9eb0deef844d09cc",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -85,7 +85,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -191,7 +192,6 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "quartz-syncer:Quartz Syncer publication center": false,
       "templater-obsidian:Templater": false
     }
   },
