@@ -30,7 +30,10 @@ jobs:
           curl -L -o kiln https://github.com/otaleghani/kiln/releases/download/v0.3.13/kiln_linux_amd64
           
           # Make it executable
-          chmod +x kiln          
+          chmod +x kiln  
+
+      - name: Ensure public directory exists
+        run: mkdir -p public
 
       - name: Build Site
         # Replace the URL below with your actual GitHub Pages URL
