@@ -34,9 +34,10 @@ jobs:
 
       - name: Build Site
         # Replace the URL below with your actual GitHub Pages URL
+        # note:  replace ass with public to revert
         run: ./kiln generate \
           --input . \
-          --output ./public \
+          --output ./ass \
           --url https://embersofintention.github.io/DBT-Project-Base
 
       - name: Upload artifact
