@@ -37,7 +37,7 @@ jobs:
         run: ./kiln generate \
           --input . \
           --output ./public \
-          --url https://embersofintention.github.io/DBT-Project-Base/
+          --url https://embersofintention.github.io/DBT-Project-Base
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
