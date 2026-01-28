@@ -1,5 +1,0 @@
-# This directory is a Syncthing folder marker.
-# Do not delete.
-
-folderID: uatk4-l2jre
-created: 2025-08-27T18:43:57-04:00
